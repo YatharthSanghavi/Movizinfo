@@ -241,4 +241,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ for movie and TV series enthusiasts**
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=YatharthSanghavi/Movizinfo&type=Date)](https://star-history.com/#YatharthSanghavi/Movizinfo&Date)
+
+---
+
+<div align="center">
+  <strong>Made with ❤️ by Yatharth</strong>
+  <br>
+  <br>
+  <a href="https://github.com/YatharthSanghavi/Movizinfo/">⭐ Star this repo if you found it helpful!</a>
+</div>
